@@ -39,7 +39,7 @@
 
 # Запуск проекта
 
-- Клонируйте репозиторий: `git clone https://github.com/VaLeraSi/user_notification`
+- Клонируйте репозиторий: `git clone https://github.com/VaLeraSi/users_notification`
 - Установите Docker
 - Создайте Dockerfile
 - Создайте docker-compose.yml
