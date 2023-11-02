@@ -1,9 +1,5 @@
-from typing import Any
-
-from bson import ObjectId
-from pydantic import BaseModel, Field, ConfigDict, field_validator, model_validator
+from pydantic import BaseModel, Field, model_validator
 from enum import Enum
-from datetime import datetime
 
 
 class NotificationKey(str, Enum):
